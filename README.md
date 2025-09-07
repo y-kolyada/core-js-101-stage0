@@ -4,6 +4,10 @@
 
 However, PRs with the fixes or proposals are welcomed!
 
+My solutions:
+- [github.com/ikclouds/core-js-101-stage0](https://github.com/ikclouds/core-js-101-stage0)
+- [ithub.com/y-kolyada/core-js-101-stage0](https://github.com/y-kolyada/core-js-101-stage0)
+
 ## Task
 The task is to implement functions on different Core JS topics. There are eight modules with different tasks. Each module consists of tasks for specified topic:
 
